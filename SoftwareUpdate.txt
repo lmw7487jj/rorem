@@ -1,1 +1,1 @@
-Update README.md
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
