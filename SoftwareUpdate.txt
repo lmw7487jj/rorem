@@ -1,1 +1,1 @@
-Object Counter improvements (#8648)
+Add C++ Classify inference example (#6868)
