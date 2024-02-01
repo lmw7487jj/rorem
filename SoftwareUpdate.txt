@@ -1,1 +1,1 @@
-Cleanup Docs languages (#7865)
+Update OpenVINO INT8 export (#7515)
